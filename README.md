@@ -18,6 +18,8 @@ This is a basic linear voltage regulator supply, capable of providing voltages b
 3. LM317 regulates the voltage based on the potentiometer setting.
 4. Output capacitor improves stability and reduces noise.
 
+<img width="1331" height="567" alt="image" src="https://github.com/user-attachments/assets/7796a737-d4ff-4844-be25-2eed3f1ad784" />
+
 ---
 
 ## **Design 2: LM317 with Power-Indicating LED**
@@ -33,6 +35,8 @@ This is a basic linear voltage regulator supply, capable of providing voltages b
 1. Voltage is regulated by LM317 as in Design 1.
 2. The MOSFET senses the voltage/current and adjusts the LED brightness accordingly.
 3. LED provides intuitive feedback of power delivered.
+
+<img width="801" height="497" alt="image" src="https://github.com/user-attachments/assets/1773d8ed-928c-42fd-ba60-3b6853f3b26c" />
 
 ---
 
